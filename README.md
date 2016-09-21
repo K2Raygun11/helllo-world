@@ -3,7 +3,7 @@ Python
 
 def repeater(s1,s2,n):
     print('_'+(n*(s1+s2))+'_')
-    return;
+    return
 
 def roots(a, b, c):
     x1= ((-b + (b**2-4*a*c)**(0.5))/(2*a))
